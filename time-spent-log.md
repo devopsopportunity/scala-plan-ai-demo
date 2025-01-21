@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-01-21**
+
+| Date       | Time        | Hours Spent | Task Description                                                              |
+| ---------- | ----------- | ----------- | ---------------------------------------------------------------------------- |
+| 2025-01-21 | 12:45-13:15 | 0.5         | 📦 Migrated documents to `scala-plan-ai-demo` repository + brainstorming roadmap. |
+
 **2025-01-20**
 
 | Date       | Time        | Hours Spent | Task Description                                                              |
