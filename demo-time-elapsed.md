@@ -12,7 +12,7 @@ These features help you be more productive by providing a simple and intuitive w
 ### Success Login
 ![Demo](demo-time-elapsed/login_successful.png)
 
-### Logout
+### Login / Logout
 ![Demo](demo-time-elapsed/login.png)
 
 ### Error: Invalid Credentials
