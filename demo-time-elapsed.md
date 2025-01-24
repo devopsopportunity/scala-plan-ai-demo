@@ -6,12 +6,24 @@ These features help you be more productive by providing a simple and intuitive w
 
 ## Latest Demo
 
-### Dark-Light Theme and Undo Button
-![Demo](demo-time-elapsed/demo_tema_undo.png)
+### Login Page
+![Demo](demo-time-elapsed/login_light_theme.png)
+
+### Success Login
+![Demo](demo-time-elapsed/login_successful.png)
+
+### Logout
+![Demo](demo-time-elapsed/login.png)
+
+### Error: Invalid Credentials
+![Demo](demo-time-elapsed/login_invalid_credentials.png)
 
 ---
 
 ## Old Demos
+
+### Dark-Light Theme and Undo Button
+![Demo](demo-time-elapsed/demo_tema_undo.png)
 
 ### Activity Editor Revamp
 ![Demo](demo-time-elapsed/demo_activity_editor_revamp.png)
