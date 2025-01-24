@@ -1,5 +1,18 @@
 # Development Time Log ⏰
 
+**2025-01-24**
+
+| Date       | Time        | Hours Spent | Task Description                                                                 |
+| ---------- | ----------- | ----------- | ----------------------------------------------------------------------------- |
+| 2025-01-24 | 14:30-16:30 | 2.0         | Implemented login/logout page in Scala: CSS, control, tests, and documentation updates. |
+| 2025-01-24 | 19:30-21:30 | 2.0         | Finalized login/logout page with dark-light theme toggle: CSS, JS updates.     |
+
+**2025-01-23**
+
+| Date       | Time        | Hours Spent | Task Description                                   |
+| ---------- | ----------- | ----------- | ------------------------------------------------ |
+| 2025-01-23 | 18:30-20:30 | 2.0         | Brainstorming and attempts to design the login.  |
+
 **2025-01-21**
 
 | Date       | Time        | Hours Spent | Task Description                                                              |
