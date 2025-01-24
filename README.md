@@ -1,8 +1,5 @@
 ### Greetings of the day! 😊
 
-🧹 Happy Epiphany! (*La Befana*) May this magical Italian tradition bring you good fortune and fresh beginnings! 
-🍾 Happy New Year 2025! Here's to new achievements and growth! 🥂
-
 # 🚀 Scala-Plan-AI
 
 An innovative project leveraging Play Framework and Scala for intelligent task management and planning.
@@ -19,6 +16,7 @@ Scala-Plan-AI demonstrates how Scala can be used to create scalable, high-perfor
 ## Features and Updates
 
 ### Recent Improvements (January 2025)
+- Added login/logout page with dark-light theme toggle
 - Added dark-light theme toggle
 - Implemented quantum menu system
 - Added undo functionality for completed activities
