@@ -16,9 +16,11 @@ Scala-Plan-AI demonstrates how Scala can be used to create scalable, high-perfor
 ## Features and Updates
 
 ### Recent Improvements (January 2025)
-- Added login/logout page with dark-light theme toggle
+- Implemented language switching functionality with new JavaScript helper
+- Implemented theme toggling functionality with new JavaScript helper
 - Added dark-light theme toggle
-- Implemented quantum menu system
+- Implemented quantum sub-menu system
+- Added login/logout page with dark-light theme toggle
 - Added undo functionality for completed activities
 - Enhanced code organization and commenting
 - Improved drag-and-drop interface
