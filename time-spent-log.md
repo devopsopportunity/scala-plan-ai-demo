@@ -1,5 +1,18 @@
 # Development Time Log ⏰
 
+**2025-01-26**
+
+| Date       | Time        | Hours Spent | Task Description                                                                 |
+| ---------- | ----------- | ----------- | ----------------------------------------------------------------------------- |
+| 2025-01-26 | 16:30-18:00 | 1.5         | Implemented quantum submenu, testing, reorganized code, and added new JavaScript helpers for language and theme change functionality. Documented updates and added comments. |
+| 2025-01-26 | 19:15-22:15 | 3.0         | Implemented submenu updates, more testing, further code reorganization, and connected new JavaScript helpers for language switching and theme toggling. Updated documentation and comments. |
+
+**2025-01-25**
+
+| Date       | Time        | Hours Spent | Task Description                                                                 |
+| ---------- | ----------- | ----------- | ----------------------------------------------------------------------------- |
+| 2025-01-25 | 14:30-16:30 | 2.0         | Implemented quantum submenu, testing, code restructuring, and initial documentation updates. |
+
 **2025-01-24**
 
 | Date       | Time        | Hours Spent | Task Description                                                                 |
