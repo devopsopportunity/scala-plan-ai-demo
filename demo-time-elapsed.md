@@ -4,7 +4,26 @@ These features help you be more productive by providing a simple and intuitive w
 
 ---
 
-## Latest Demo
+## Latest Demo (26-01-25)
+
+### Quantum Submenu
+![Demo](demo-time-elapsed/updated_quantum_submenu.png)
+
+### Change Theme Light
+![Demo](demo-time-elapsed/change_theme_light.png)
+
+### Change Theme Dark
+![Demo](demo-time-elapsed/change_theme_dark.png)
+
+### Change Language Italian
+![Demo](demo-time-elapsed/change_language_ita.png)
+
+### Change Language English
+![Demo](demo-time-elapsed/change_language_eng.png)
+
+---
+
+## Previous Demos
 
 ### Login Page
 ![Demo](demo-time-elapsed/login_light_theme.png)
@@ -17,10 +36,6 @@ These features help you be more productive by providing a simple and intuitive w
 
 ### Error: Invalid Credentials
 ![Demo](demo-time-elapsed/login_invalid_credentials.png)
-
----
-
-## Old Demos
 
 ### Dark-Light Theme and Undo Button
 ![Demo](demo-time-elapsed/demo_tema_undo.png)
