@@ -1,4 +1,7 @@
 # 🪜 Demo of Scala-Plan-AI (MVP)
+
+*Greetings from Milan!* 😊
+
 **Scala-Plan-AI** is an advanced task planning and management application initially developed in **Scala** and later adapted into a simplified version in **Node.js + Vanilla JS**. The version we are presenting is an **MVP - (Minimum Viable Product)**, designed to showcase the core features, gather feedback, and guide future development.
 
 You can access the **live demo** by clicking the link below:
