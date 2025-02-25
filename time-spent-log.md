@@ -3,9 +3,9 @@
 **2025-02-25**
 
 | Date       | Time        | Hours Spent | Task Description                                                                 |
-| ---------- | ----------- | ----------- | ----------------------------------------------------------------------------- |
-| 2025-02-25 | 16:30-20:30 | 4           | Documentation update and migration |
-| 2025-02-25 | 08:00-14:30 | 6.5         | Start of migration from Scala to Vanilla.js and Webpack|
+| ---------- | ----------- | ----------- | ------------------------------------------------------------------------------- |
+| 2025-02-25 | 16:30-20:30 | 4           | Documentation update and migration of API Gateway and CORS management: Spent time refining the documentation to improve understanding and management of APIs and CORS configuration. This phase is crucial for better integration between components, ensuring the system works correctly in production environments and reducing potential long-term errors. |
+| 2025-02-25 | 08:00-14:30 | 6.5         | Start of migration from Scala to Vanilla.js and Webpack: Began migrating from Scala to Vanilla.js to simplify the workflow, reduce complexity, and improve performance. Webpack integration was key for optimizing the build process and resource management. |
 
 **2025-02-24**
 
