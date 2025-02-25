@@ -1,5 +1,23 @@
 # Development Time Log ⏰
 
+**2025-02-25**
+
+| Date       | Time        | Hours Spent | Task Description                                                                 |
+| ---------- | ----------- | ----------- | ----------------------------------------------------------------------------- |
+| 2025-02-25 | 16:30-20:30 | 4           | Documentation update and migration |
+| 2025-02-25 | 08:00-14:30 | 6.5         | Start of migration from Scala to Vanilla.js and Webpack|
+
+**2025-02-24**
+
+| Date       | Time        | Hours Spent | Task Description                                                                 |
+| ---------- | ----------- | ----------- | ----------------------------------------------------------------------------- |
+| 2025-02-24 | 09:30-13.30 | 4.0         | Release on vercel and file organization. |
+| 2025-02-24 | 16:00-20.00 | 4.0         | Release on vercel and file organization. |
+
+**From 2025-01-27 to 2025-02-23**
+
+| Summary | 10 working days | CRUD areas part 1, new pop-up, reverse engineering, quantum menu extension, brainstorming |
+
 **2025-01-26**
 
 | Date       | Time        | Hours Spent | Task Description                                                                 |
