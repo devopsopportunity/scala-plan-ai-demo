@@ -1,21 +1,70 @@
-### Greetings of the day! 😊
+# 🪜 Demo of Scala-Plan-AI (MVP)
+**Scala-Plan-AI** is an advanced task planning and management application initially developed in **Scala** and later adapted into a simplified version in **Node.js + Vanilla JS**. The version we are presenting is an **MVP - (Minimum Viable Product)**, designed to showcase the core features, gather feedback, and guide future development.
 
-# 🚀 Scala-Plan-AI
+You can access the **live demo** by clicking the link below:
+👉 [**Demo of Scala-Plan-AI**](https://scala-plan-ai.vercel.app/)
 
-An innovative project leveraging Play Framework and Scala for intelligent task management and planning.
+### Interactive Themes  
+- **Well-being 🌱**  
+  A theme designed to promote serenity and mental well-being, with natural and gentle colors that foster a balanced and productive environment.
 
-## Overview
-Scala-Plan-AI demonstrates how Scala can be used to create scalable, high-performance applications for organizational management. The project features dynamic and static menus, daily logs, and interactive elements, focusing on user-friendly task planning and activity tracking.
+- **Darknight 🌙**  
+  A dark theme optimized to reduce eye strain in low-light environments, perfect for evening use.
 
-## Documentation
-- [Report](report.md)
-- [Getting Started](getting-started.md)
-- [Demo: Time Elapsed](demo-time-elapsed.md)
+- **Daylight 🌞**  
+  A light theme designed to improve visibility during the daytime, offering a fresh and clean interface, ideal for reading and organizing.
+
+### RFC 9512 - Official YAML Media Type  
+Starting from February 14, 2024, RFC 9512 formally registered **application/yaml** as the media type for all YAML content, introducing **+yaml** as the standard structured syntax suffix.
+
+### Key Features  
+- **Intelligent Task Management**  
+  - CRUD operations for tasks  
+  - Smart task distribution (7:00 AM - 11:00 PM)  
+  - Micro-scheduling in 15-minute blocks  
+  - Toast notifications for user feedback  
+
+- **Area Creation and Management**  
+  - Each area represents a related group of tasks  
+  - Add, modify, and remove tasks for each area  
+  - In the future, areas will be linked to daily tasks to track progress  
+
+- **Advanced Logging System**  
+  - Viewing and managing task progress through an advanced logging system  
+  - Smooth and customizable user interface  
+
+### Roadmap (in Quarters)  
+
+**- Q1 2025** - Migration and MVP Demo Online:
+Migration from the Scala-based system to a simplified version with Node.js + Vanilla JS. The goal is to showcase a live demo with basic features, allowing intelligent task management and a clean, functional user interface. In this simplified version, data will be managed through browser localstorage, without persistence in a central database. This version is intended to demonstrate the concept and gather useful feedback for future development.
+
+**- Q2 2025** - Area Management and Progress Monitoring:
+Introduction of the area monitoring system, with the ability to link each area to daily tasks. Users will be able to view the progress of each area in real time.
+
+**- Q3 2025** - Task Automation and Optimization:
+Implementation of an advanced automation system for task management, with the ability to assign automatic priorities and deadlines to improve efficiency.
+
+**- Q4 2025** - Artificial Intelligence for Monitoring and Productivity:
+Development of artificial intelligence features to suggest optimized tasks based on daily progress and user habits, to maximize productivity.
+
+**- Q5 2025** - Database Server Integration:
+Adding data persistence through the integration of a database server to ensure that information is securely stored and no longer reliant on browser localstorage. Data can be synchronized, and users can be managed centrally.
+
+---
+
+### Documentation
 - [Development Time Log](time-spent-log.md)
+- [Report](report.md)
 
 ## Features and Updates
 
-### Recent Improvements (January 2025)
+### February 2025
+- Rewritten the new development of the Roadmap
+- Started Migration to simplified version using Node.js + Vanilla JS
+- Implemented Areas functionality (demo section using local storage only)
+- Continued development of Roadmap
+
+### December 2024 - January 2025
 - Implemented language switching functionality with new JavaScript helper
 - Implemented theme toggling functionality with new JavaScript helper
 - Added dark-light theme toggle
@@ -26,24 +75,7 @@ Scala-Plan-AI demonstrates how Scala can be used to create scalable, high-perfor
 - Improved drag-and-drop interface
 - Integrated completedActivitiesTracker with counter updates
 
-### Core Features
-
-1. **Smart Task Management**
-   - CRUD operations for tasks
-   - Intelligent task distribution (9:00 AM - 11:00 PM)
-   - 15-minute block splitting for micro-scheduling
-   - Toast notifications for user feedback
-
-2. **Advanced Logging System**
-   - Past log visualization
-   - Future task planning
-   - YAML-based storage (RFC 9512 compliant)
-     [More about YAML RFC 9512](https://httptoolkit.com/blog/yaml-media-type-rfc/)
-
-3. **Smart Sorting**
-   - Chronological task organization
-   - Workday distribution optimization
-   - Dynamic task rearrangement
+---
 
 ## Why Scala?
 
