@@ -1,9 +1,10 @@
 # Development Time Log ⏰
 
-**2025-02-26**
+**2025-02-26**  
 
 | Date       | Time       | Hours Spent | Task Description                               |
 |-----------|-----------|-------------|-----------------------------------------------|
+| 2025-02-26 | 11:30-13:00 | 1.5         | Added routing system with Vercel and Node.js server: Implemented server-side routing for better scalability and improved deployment workflow. |
 | 2025-02-26 | 10:00-10:30 | 0.5         | Bug fixing on login body (CSS/JS): Fixed layout inconsistencies and improved responsiveness for better user experience. |
 
 **2025-02-25**
