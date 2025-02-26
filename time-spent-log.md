@@ -4,6 +4,7 @@
 
 | Date       | Time       | Hours Spent | Task Description                               |
 |-----------|-----------|-------------|-----------------------------------------------|
+| 2025-02-26 | 13:00-13:45 | 0.75        | 🚀 💪 **Phase 2 "Migration" from Scala PlayFramework Views to Vanilla.js** for Vercel in a "component-based" structure **similar** to Angular or React.js. Added `index.css` for dashboard, `effects.css` for input search area, and `area-pop-up.html` for pop-up area (formerly a Scala view). Reviewed dashboard init logic and refactored login page component initialization in `login.js`. |
 | 2025-02-26 | 11:30-13:00 | 1.5         | Added routing system with Vercel and Node.js server: Implemented server-side routing for better scalability and improved deployment workflow. |
 | 2025-02-26 | 10:00-10:30 | 0.5         | Bug fixing on login body (CSS/JS): Fixed layout inconsistencies and improved responsiveness for better user experience. |
 
