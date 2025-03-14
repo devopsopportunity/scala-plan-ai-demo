@@ -9,7 +9,7 @@
 | 2025-03-14 | 16:00-16:30 | 0.5 | 🪽 Restored CSS for `activity-editor` and fixed **dragging class** with `!important`. Pushed **7 files**. 🧐 |
 | 2025-03-14 | 17:10-17:40 | 0.5 | 🪽 Fixed `activity-container` layout in `activity-tracker.css`. 🧐 |
 | 2025-03-14 | 17:40-18:10 | 0.5 | 🪽 Fixed init list items and fixed text color item on dark theme. 🧐 |
-| 2025-03-14 | 18:50-19:50 | 1 | 🪽 | 2025-03-14 | 18:50-19:50 | 1 | 🪽 Fixed bug in CSS dark theme for activity tracker item, 🪶 Translated drag-drop.component.js, 🚧 Added first part of migration for "add new activity" with external listeners controllers 🔧  🧐 |
+| 2025-03-14 | 18:50-19:50 | 1 | 🪽 Fixed bug in CSS dark theme for activity tracker item, 🪶 Translated drag-drop.component.js, 🚧 Added first part of migration for "add new activity" with external listeners controllers 🔧  🧐 |
 
 **2025-03-13**
 
