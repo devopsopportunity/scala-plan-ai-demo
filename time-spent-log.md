@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-03-17**
+
+| Date       | Time       | Hours Spent | Task Description                               |
+|------------|------------|-------------|------------------------------------------------|
+| 2025-03-17 | 07:21-8:46 | 1.25 (15min. pause) | 🪽 Pop-up development: Implemented main saving mechanisms and checks. Closed automatic functionality. Pushed code, pending CSS adjustments.|
+
 **2025-03-14**
 
 | Date       | Time       | Hours Spent | Task Description                               |
