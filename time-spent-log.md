@@ -6,6 +6,7 @@
 |------------|------------|-------------|------------------------------------------------|
 | 2025-03-17 | 07:21-8:50 | 1.25 (15min. pause) | 🪽 Pop-up development: Implemented main saving mechanisms and checks. Closed automatic functionality. Pushed code, pending CSS adjustments.|
 | 2025-03-17 | 10:00-11:00 | 1 | 🧠 Test, brainstorming, bug fixing on CSS quick options pop-up and **child combinator (>)** on CSS header buttons controls. |
+| 2025-03-17 | 12:20-13:45 | 1.25 (2x5 min. pause) | 🎨 Restored **CSS area pop-up**, bug fixing on **dark theme**, cleaned old codes, restored listeners for adding new area, mounted **new button area to open pop-up.** |
 
 **2025-03-14**
 
