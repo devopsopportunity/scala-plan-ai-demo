@@ -5,6 +5,7 @@
 | Date       | Time       | Hours Spent | Task Description                               |
 |------------|------------|-------------|------------------------------------------------|
 | 2025-03-20 | 07:30-11:30 | 4 | 🧠 Process started on the 18th: intensive development that resulted in modifications to **30 files**. Tasks performed include creating the Web components for the Area Activity Popup and Area Header, fixing the CSS, running tests, brainstorming, bug fixing on the popup, improving the header, updating *areas.service.js* and *area-activity-core.service.js*, and optimizing *generate-component.sh* with 4 parameters. |
+| 2025-03-20 | 12:00-13:00 | 1 | 🧠 Added new components: **area-activities**, **area-drag-drop**, and updated the **menu switch logic** in the dashboard, completing the initial implementation and conducting basic tests. |
 
 **2025-03-17**
 
