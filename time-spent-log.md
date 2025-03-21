@@ -8,6 +8,7 @@
 | 2025-03-21 | 09:20-10:20 | 1h | 🛠️ Updated area-activity-popup and area-drag-drop, made logic for popup adder for each task in the area-activities drag-drop container |
 | 2025-03-21 | 11:40-12:10 | 0.5h | 🐛 Bug fixing on activityTracker.decTotalActivities() from drag-drop |
 | 2025-03-21 | 12:20-13:00 | 0.67h | 🔗 Update connection with tasks on the area-drag-drop component and little various 🐛 bug fixing - 9 files changed |
+| 2025-03-21 | 13:00-13:15 | 0.25h | 🛠️ Bug fixing on decrementer tracking panel and created areaAddDeleteButton(item) |
 
 **2025-03-20**
 
