@@ -6,6 +6,7 @@
 |------------|------------|-------------|------------------------------------------------|
 | 2025-03-21 | 07:30-8.30 | 1h | 🧠 Brainstorming |
 | 2025-03-21 | 09:20-10:20 | 1h | 🛠️ Updated area-activity-popup and area-drag-drop, made logic for popup adder for each task in the area-activities drag-drop container |
+| 2025-03-21 | 11:40-12:10 | 0.5h | 🐛 Bug fixing on activityTracker.decTotalActivities() from drag-drop |
 
 **2025-03-20**
 
