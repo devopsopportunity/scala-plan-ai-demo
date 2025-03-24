@@ -2,8 +2,8 @@
 
 **2025-03-24**
 
-| Date       | Time         | Hours Spent | Task Description  |
-|------------|--------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Date       | Time             | Hours Spent | Task Description |
+|------------|----------------|-------------|------------------|
 | 2025-03-24 | 12:00-13:00  | 1h          | `git commit -m "improved area memory management and added area reset in quantum-menu.component.js and areas.service.js"`  |
 
 **2025-03-22**
