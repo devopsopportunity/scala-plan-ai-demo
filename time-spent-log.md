@@ -4,7 +4,8 @@
 
 | Date       | Time             | Hours Spent | Task Description |
 |------------|----------------|-------------|------------------|
-| 2025-03-24 | 12:00-13:00  | 1h          | 🔧 Improved area memory management and added area reset in quantum-menu.component.js and areas.service.js|
+| 2025-03-24 | 12:00-13:00     | 1h          | 🔧 Improved area memory management and added area reset in `quantum-menu.component.js` and `areas.service.js` |
+| 2025-03-24 | 14:00-15:30     | 1h 30m      | 🚀 Implemented task addition, area switching, and reload functionality. Fixed task visibility between `activity-editor` and areas, and ensured data is properly handled. Changed old `localStorage` key to a primary key for task and area management. |
 
 **2025-03-22**
 
