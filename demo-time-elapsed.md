@@ -2,9 +2,12 @@
 
 These features help you be more productive by providing a simple and intuitive way to manage your daily tasks within the app.
 
----
+## Latest Demo (25-03-25)
 
-## Latest Demo (26-01-25)
+### Migration - first demo
+![Demo](demo-time-elapsed/updated_quantum_submenu.png)
+
+---
 
 ### Quantum Submenu
 ![Demo](demo-time-elapsed/updated_quantum_submenu.png)
