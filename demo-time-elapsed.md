@@ -5,7 +5,7 @@ These features help you be more productive by providing a simple and intuitive w
 ## Latest Demo (25-03-25)
 
 ### Migration - first demo
-![Demo](demo-time-elapsed/First_demo_2025-03-25 21-18-39.png)
+![Demo](demo-time-elapsed/"First_demo_2025-03-25 21-18-39.png")
 
 ---
 
