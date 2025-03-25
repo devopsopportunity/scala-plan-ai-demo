@@ -5,6 +5,7 @@
 | Date       | Time             | Hours Spent | Task Description |
 |------------|----------------|-------------|------------------|
 | 2025-03-25 | 14:00-15.00 | 1h | 🐞 bug fixing on popup selectors for area and activity-editor |
+| 2025-03-25 | 15:00-17:42 | 2h 42m | 🛠 🔥 Bug fixing on activity-editor control, created new component activity-header, bug fixing on activity-editor, drag-drop, header-component, activity-core (12 files changed) | 
 
 **2025-03-24**
 
