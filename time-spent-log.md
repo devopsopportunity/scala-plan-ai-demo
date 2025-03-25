@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-03-25**
+
+| Date       | Time             | Hours Spent | Task Description |
+|------------|----------------|-------------|------------------|
+| 2025-03-25 | 14:00-15.00 | 1h | 🐞 bug fixing on popup selectors for area and activity-editor |
+
 **2025-03-24**
 
 | Date       | Time             | Hours Spent | Task Description |
