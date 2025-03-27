@@ -1,10 +1,16 @@
 # Development Time Log ⏰
 
+**2025-03-27**
+
+| Date       | Time          | Hours Spent | Task Description                   |
+|------------|---------------|-------------|------------------------------------|
+| 2025-03-27 | 08:30-9.15.00 | 45m         | 🐞 improved reset areas            |
+
 **2025-03-25**
 
 | Date       | Time             | Hours Spent | Task Description |
 |------------|----------------|-------------|------------------|
-| 2025-03-25 | 14:00-15.00 | 1h | 🐞 bug fixing on popup selectors for area and activity-editor |
+| 2025-03-25 | 14:00-15:00 | 1h | 🐞 bug fixing on popup selectors for area and activity-editor |
 | 2025-03-25 | 15:00-17:42 | 2h 42m | 🛠 🔥 Bug fixing on activity-editor control, created new component activity-header, bug fixing on activity-editor, drag-drop, header-component, activity-core (12 files changed) |
 | 2025-03-25 | 18:50-19:30 | 40m | 🐞 Bug fixing on save YAML Download + installed **npm package js-yaml** 🔧 |
 | 2025-03-25 | 19:50-21:10 | 1h 20m | 🧠 Brainstorming on *data demo*, bug fixing on *common activities*, bug fixing on popup generic, bug fixing on reset |
