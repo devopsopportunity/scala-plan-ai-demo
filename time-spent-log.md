@@ -4,8 +4,9 @@
 
 | Date       | Time        | Hours Spent | Task Description                                      |
 |------------|------------|-------------|-----------------------------------------------------|
-| 2025-03-28 | 08:00-08:45 | 45m         | 🔗 Connected item area activity with activity-editor through a link and dynamically disconnected it. |
+| 2025-03-28 | 08:00-08:45 | 45m | 🔗 Connected item area activity with activity-editor through a link and dynamically disconnected it. |
 | 2025-03-28 | 09:00-13:00 | 4h (incl. 1h30m pause) | 🛠️ Bug fixing on delete task, improved link-area with activity-editor, added new logic for link removal (disappears from list, updates activity area list, saves in local storage). Updated CSS: changed status with 🚧 'area working on the street' emoji. |
+| 2025-03-28 | 16:50-18:20 | 1h 30m | ✅ Improved area-link with completed status when users drag into completed activities container. Also improved 'undo' when user changes own idea to restore task, restoring area and activity status by updating the 'workflow' manager tasks. 🔥🔥|
 
 **2025-03-27**
 
