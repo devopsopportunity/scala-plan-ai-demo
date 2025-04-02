@@ -5,6 +5,7 @@
 | Date       | Time        | Hours Spent | Task Description                                      |
 |------------|------------|-------------|-----------------------------------------------------|
 | 2025-04-02 | 07:45-09:17 | 1h 32m | 🔗 Bug fixing and improvements on delete **on cascade** per each activity. |
+| 2025-04-02 | 10:25-11:18 | 53m | 🗑️ **Task completed!** On cascade delete (second part) for single activity. Modified files: `area-drag-drop.component.js`, `activity-tracker.component.js`. 🚀🔥💪 |
 
 **2025-04-01**
 
