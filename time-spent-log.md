@@ -1,5 +1,17 @@
 # Development Time Log ⏰
 
+**2025-04-02**
+
+| Date       | Time        | Hours Spent | Task Description                                      |
+|------------|------------|-------------|-----------------------------------------------------|
+| 2025-04-02 | 07:45-09:17 | 1h 32m | 🔗 Bug fixing and improvements on delete **on cascade** per each activity. |
+
+**2025-04-01**
+
+| Date       | Time        | Hours Spent | Task Description                                      |
+|------------|------------|-------------|-----------------------------------------------------|
+| 2025-04-01 | - | - | 🐟 **April Fool's joke!** Just for fun! |
+
 **2025-03-28**  
 
 | Date       | Time        | Hours Spent | Task Description                                      |
