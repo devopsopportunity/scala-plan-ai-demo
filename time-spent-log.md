@@ -6,7 +6,7 @@
 |------------|------------|-------------|-----------------------------------------------------|
 | 2025-04-02 | 07:45-09:17 | 1h 32m | 🔗 Bug fixing and improvements on delete **on cascade** per each activity. |
 | 2025-04-02 | 10:25-11:18 | 53m | 🗑️ **Task completed!** On cascade delete (second part) for single activity. Modified files: `area-drag-drop.component.js`, `activity-tracker.component.js`. 🚀🔥💪 |
-| 2025-04-02 | 12:21-16:24 | 3h 36m (incl. 30m break) | 🌊✅ *MAJOR MILESTONE!*: Finalized **cascade delete system** + **task move** logic. Full localStorage data synchronization. Modified files: `activity-editor.component.js`, `area-drag-drop.component.js`, `area-drag-drop.css`, `drag-drop.component.js`, `activity-core.service.js`, `editors.service.js`. Code changes: 248++ insertions, 170-- deletions ⚡ |
+| 2025-04-02 | 12:21-16:24 | 3h 36m (incl. 30m break) | 🌊✅ *MAJOR MILESTONE!*: Finalized **cascade delete system** + **task move** logic. Full localStorage data synchronization. Modified files: `activity-editor.component.js`, `area-drag-drop.component.js`, `area-drag-drop.css`, `drag-drop.component.js`, `activity-core.service.js`, `editors.service.js`. Code changes: 248++ insertions, 170-- deletions ⚡. (including brainstorming for managing completed tasks whether to make them editable or not.) |
 | 2025-04-02 | 16:28-16:38 | 10m         | 🐞 **Hotfix**: Counter bug in activity-tracker. Modified: `area-drag-drop.component.js` |
 
 **2025-04-01**
