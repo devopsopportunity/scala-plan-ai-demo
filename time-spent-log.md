@@ -5,6 +5,7 @@
 | Date       | Time        | Hours Spent | Task Description                                      |
 |------------|------------|-------------|-----------------------------------------------------|
 | 2025-04-03 | 09:30-10:30 | 1h | 🐞🔗✅🗑️🪚✂️ Bug fixing on **hard delete** and **soft delete** for activity tracking system. Modified: `activity-tracker.component.js`, `area-drag-drop.component.js`, `ui-helpers.service.js`. |
+| 2025-04-03 | 11:52-12:52 | 1h  | 🌊🔥 **Implemented CASCADE DELETE!** Modified: `ui-helpers.service.js`, `areas.service.js`, `activity-tracker.component.js`. Now deletion propagates correctly to linked tasks! 🚀💪 |
 
 **2025-04-02**
 
