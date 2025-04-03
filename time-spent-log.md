@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-04-03**
+
+| Date       | Time        | Hours Spent | Task Description                                      |
+|------------|------------|-------------|-----------------------------------------------------|
+| 2025-04-03 | 09:30-10:30 | 1h | 🐞🔗✅🗑️🪚✂️ Bug fixing on **hard delete** and **soft delete** for activity tracking system. Modified: `activity-tracker.component.js`, `area-drag-drop.component.js`, `ui-helpers.service.js`. |
+
 **2025-04-02**
 
 | Date       | Time        | Hours Spent | Task Description                                      |
