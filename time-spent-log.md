@@ -5,6 +5,7 @@
 | Date       | Time        | Hours Spent | Task Description                                      |
 |------------|------------|-------------|-----------------------------------------------------|
 | 2025-04-04 | 09:15-10:00 | 45m | 🙏🐞 **UI Fixes + Feature**: Created notice-popup, fixed logout listener bug. Modified: `quantum-menu.html`, `quantum-menu.component.js` |
+| 2025-04-04 | 16:00-18:11 | 2h 11m | ➕🧠📢 **UI/UX Overhaul**: Reworked pop-up system (new area creation, rename and settings notifications), added character limit for area names, with brainstorming sessions and bug fixes throughout the process. |
 
 **2025-04-03**
 
