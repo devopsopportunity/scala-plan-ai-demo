@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-04-04**
+
+| Date       | Time        | Hours Spent | Task Description                                      |
+|------------|------------|-------------|-----------------------------------------------------|
+| 2025-04-04 | 09:15-10:00 | 45m | 🙏🐞 **UI Fixes + Feature**: Created notice-popup, fixed logout listener bug. Modified: `quantum-menu.html`, `quantum-menu.component.js` |
+
 **2025-04-03**
 
 | Date       | Time        | Hours Spent | Task Description                                      |
