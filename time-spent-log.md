@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-04-08**  
+
+| Date       | Time        | Hours Spent       | Task Description |
+|------------|-------------|-------------------|------------------------------------------------------|
+| 2025-04-08 | 11:00-17:30 | 6h 30m (30 min break) | 🛠️ 📊 **Full System Upgrade**: 1) Pop-up/panel counters 2) Time buttons bugfix (sort/group) 3) Drag-drop link blocks 4) Added max-activities limiters |
+
 **2025-04-07**
 
 | Date       | Time        | Hours Spent | Task Description                                      |
