@@ -5,6 +5,8 @@
 | Date       | Time      | Hours Spent | Task Description                          |
 |------------|-----------|-------------|-------------------------------------------|
 | 2025-04-09 | 09:00-11:00 | 2h          | 🐛 **Bug fixing**: Sorted and drag-drop on show linked activities |
+| 2025-04-09 | 15:45-16:15 | 30m         | 💡 **Research & Brainstorming**: Winston.js (Node.js logging) + Shepherd.js (JS tutorial system) |
+| 2025-04-09 | 16:25-16:55 | 30m         | 🐛 **Bug fixing**: Area drag-drop when flag is completed |
 
 **2025-04-08**  
 
