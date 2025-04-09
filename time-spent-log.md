@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-04-09**
+
+| Date       | Time      | Hours Spent | Task Description                          |
+|------------|-----------|-------------|-------------------------------------------|
+| 2025-04-09 | 09:00-11:00 | 2h          | 🐛 **Bug fixing**: Sorted and drag-drop on show linked activities |
+
 **2025-04-08**  
 
 | Date       | Time        | Hours Spent       | Task Description |
