@@ -4,7 +4,7 @@
 
 | Date       | Time      | Hours Spent | Task Description                          |
 |------------|-----------|-------------|-------------------------------------------|
-| 2025-04-10 | 10:00 AM - 10:00 PM | 8h (12h - 4h break) | 🧠 Tutorial dev: pop-up agents (area/activity-editor), lock footers (core), Shepherd.js CSS/core refactoring 💯 |
+| 2025-04-10 | 10:00 AM - 10:00 PM | 8h (12h - 4h break) | 🧠 Tutorial dev: pop-up **agents** (area/activity-editor), lock footers (core), Shepherd.js CSS/core refactoring 💯 |
 
 **2025-04-09**
 
