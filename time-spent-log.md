@@ -14,7 +14,7 @@
 | 2025-04-09 | 15:45-16:15 | 30m         | 💡 **Research & Brainstorming**: Winston.js (Node.js logging) + Shepherd.js (JS tutorial system) |
 | 2025-04-09 | 16:25-16:55 | 30m         | 🐛 **Bug fixing**: Area drag-drop when flag is completed |
 | 2025-04-09 | 17:15-19:55 | 2h 40m | 🚀 Built welcome-popup.component (HTML+CSS+JS) + fixed flag bugs in: show-me-linked, show-me, quantum-menu, drag-drop, area-header, area-drag-drop, activity-header, dashboard-page (.component/.html), areas.service, storage.service 🪱 (worm legacy: survived in drag-drop logic) |
-| 2025-04-09 | 20:45-21:53 | 1h 08m   | 🧠 Tutorial Dev | **Shepherd.js**: Initial tutorial.js setup. Custom CSS styling. Doc study + installation issue solving |
+| 2025-04-09 | 20:45-21:53 | 1h 08m   | 🧠 Tutorial Dev **Shepherd.js**: Initial tutorial.js setup. Custom CSS styling. Doc study + installation issue solving |
 
 **2025-04-08**  
 
