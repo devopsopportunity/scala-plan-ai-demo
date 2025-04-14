@@ -1,10 +1,34 @@
 # Development Time Log ⏰
 
+**2025-04-14**
+
+| Date       | Time              | Hours Spent | Task Description                          |
+|------------|-------------------|-------------|-------------------------------------------|
+| 2025-04-14 | 7:30 - 10:30 | 3h | 🧠🧠🧠🧠 Final configuration approved + redirection of the weekend roadmap + full administrative logging. No code added, but high-level technical consultancy performed (strategic planning, JS agent demo logic, user tour orchestration). Prepared a simplified but meaningful demo path: tour-driven task creation, automatic relocation to completed section, agent-created data clean-up on exit. |
+
+**2025-04-13**
+
+| Date       | Time              | Hours Spent | Task Description                          |
+|------------|-------------------|-------------|-------------------------------------------|
+| 2025-04-13 | 9:30 - 12:30 | 3h | 🧠🧠🧠 Multiple attempts to integrate Shepherd.js with dynamic DOM injection + ESM import issues + incompatibilities with static HTML files. Debugged conflict between plugin initialization and disabled console.log. No visual progress but crucial groundwork laid for internal agent flow logic. |
+
+**2025-04-12**
+
+| Date       | Time              | Hours Spent | Task Description                          |
+|------------|-------------------|-------------|-------------------------------------------|
+| 2025-04-12 | 10:00 - 12:30 | 2.5h | 🧠 Initial debugging of Shepherd.js: first conflict with DOM not loading properly on modal trigger. Early design for JS agent-driven onboarding process. 🧠 |
+
+**2025-04-11**  
+
+| Date       | Time              | Hours Spent | Task Description                          |
+|------------|-------------------|-------------|-------------------------------------------|
+| 2025-04-11 | 7:30 - 18:30 | 11h (incl. 5.5h break) | 🧠 Systematic Shepherd.js integration testing + minimifier collision with Tensor plugin. Refactor attempts repeatedly blocked by ESM-related execution bugs. Documented anomalies in browser scope. |
+
 **2025-04-10**  
 
 | Date       | Time      | Hours Spent | Task Description                          |
 |------------|-----------|-------------|-------------------------------------------|
-| 2025-04-10 | 10:00 AM - 10:00 PM | 8h (12h - 4h break) | 🧠 Tutorial dev: pop-up **agents** (area/activity-editor), lock footers (core), Shepherd.js CSS/core refactoring 💯 |
+| 2025-04-10 | 10:00 AM - 10:00 PM | 12h (incl. 4h break) | 🧠 Tutorial dev: pop-up **agents** (area/activity-editor), lock footers (core), Shepherd.js CSS/core refactoring 💯 |
 
 **2025-04-09**
 
