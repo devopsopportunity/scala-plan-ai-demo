@@ -5,6 +5,8 @@
 | Date       | Time          | Hours Spent (incl. break) | Task Description |
 |------------|---------------|---------------------------|-------------------------------------------|
 | 2025-04-15 | 8:30 - 11:00  | 2.5h (1h break included) | 🧠 Brainstorming New Login - Added **privacy** features and LinkedIn login (*first part*), modified Vercel configuration and Webpack |
+| 2025-04-15 | 12:00 - 17:30 | 5.5h | 😵‍💫 Vibe Coding Via Crucis – Troubleshooting LinkedIn SSO communication. Created initial linkedin.js and callback.js, multiple frustrating attempts. 🐎 | 
+| 2025-04-15 | 21:00 - 22:00 | 1h | 🔧 Production fixes – Implemented a more stable callback, displayed profile data using LinkedIn's code and state, handled token flow and validation bugs. |
 
 **2025-04-14**
 
