@@ -1,5 +1,11 @@
 # Development Time Log ⏰
 
+**2025-04-15**  
+
+| Date       | Time          | Hours Spent (incl. break) | Task Description |
+|------------|---------------|---------------------------|-------------------------------------------|
+| 2025-04-15 | 8:30 - 11:00  | 2.5h (1h break included) | 🧠 Brainstorming New Login - Added **privacy** features and LinkedIn login (*first part*), modified Vercel configuration and Webpack |
+
 **2025-04-14**
 
 | Date       | Time              | Hours Spent | Task Description                          |
