@@ -1,6 +1,12 @@
 # Development Time Log ⏰
 
-**2025-04-15**  
+**2025-04-16**
+
+| Date       | Time          | Hours Spent (incl. break) | Task Description |
+|------------|---------------|---------------------------|-------------------------------------------|
+| 2025-04-16 | 7:30 - 8:45 | 1.25h | 🔍 Login Flow R&D - Explored LinkedIn SSO integration, tested UI/UX tweaks. **Micro-win**: refined login tooltips & footer links. (Mostly trial/error!) |
+
+**2025-04-15**
 
 | Date       | Time          | Hours Spent (incl. break) | Task Description |
 |------------|---------------|---------------------------|-------------------------------------------|
