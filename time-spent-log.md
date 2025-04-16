@@ -5,6 +5,7 @@
 | Date       | Time          | Hours Spent (incl. break) | Task Description |
 |------------|---------------|---------------------------|-------------------------------------------|
 | 2025-04-16 | 7:30 - 8:45 | 1.25h | 🔍 Login Flow R&D - Explored LinkedIn SSO integration, tested UI/UX tweaks. **Micro-win**: refined login tooltips & footer links. (Mostly trial/error!) |
+| 2025-04-16 | 10:30 - 21:30 | 11h (4h break included) | 🔍 Login Flow R&D - Explored LinkedIn SSO integration, tested UI/UX tweaks (second part). Added login-logo component. (Mostly trial/error!). I spent a lot of time brainstorming to find the logo svg/png. |
 
 **2025-04-15**
 
