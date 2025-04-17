@@ -6,6 +6,7 @@
 |------------|---------------|---------------------------|-------------------------------------------|
 | 2025-04-16 | 7:30 - 8:45 | 1.25h | 🔍 Login Flow R&D - Explored LinkedIn SSO integration, tested UI/UX tweaks. **Micro-win**: refined login tooltips & footer links. (Mostly trial/error!) |
 | 2025-04-16 | 10:30 - 21:30 | 11h (4h break included) | 🔍 Login Flow R&D - Explored LinkedIn SSO integration, tested UI/UX tweaks (second part). Added login-logo component. (Mostly trial/error!). I spent a lot of time brainstorming to find the logo svg/png. |
+| 2025-04-16 | 22:30 - 02:30 AM | 4h | 🌙🚀 **Nighttime milestone release on Vercel!** Deployed **LinkedIn login live for the first time**, resolved CORS issues with LinkedIn 🛡️, improved `Storage.service` ⚙️, fixed the critical storage service bug 🐛, optimized dashboard data initialization, and enhanced the login screen with the new SVG logo 🧠. |
 
 **2025-04-15**
 
